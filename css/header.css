@@ -6,7 +6,8 @@
  line-height: 1.33;
  letter-spacing: 0.03em;
  text-transform: uppercase;
- text-decoration: none;  
+ text-decoration: none;
+ color: #2E2F42;  
 }
 
 .logo-accent
@@ -18,6 +19,7 @@
 {
     color: #2E2F42;
     text-decoration: none;
+    font-weight: 500;
 }
 
 .link-header:hover,
@@ -31,7 +33,8 @@
 .contact-header
 {
    color: #434455;
-   text-decoration: none; 
+   text-decoration: none;
+   font-style: normal;
 }
 
 .contact-header:hover,
