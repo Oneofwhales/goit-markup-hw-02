@@ -3,12 +3,12 @@
     background-color: #F4F4FD;
 }
 
-.team li
+.team-card
 {
     background-color: #FFFFFF;
 }
-.team h3,
-.team p
+.team-card h3,
+.team-card p
 {
     text-align: center;
 }
